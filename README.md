@@ -11,7 +11,7 @@
 
 ## Инструкция для запуска на ОС Debian 11
 
-2. Установить dotnet-sdk-6.0: `sudo apt install dotnet-sdk-6.0`
-3. Клонировать репозиторий: `git clone https://github.com/ddevilbb/lesson_oop_7`
-4. Запустить приложение: `dotnet run --project=Calculator`
+1. Установить dotnet-sdk-6.0: `sudo apt install dotnet-sdk-6.0`
+2. Клонировать репозиторий: `git clone https://github.com/ddevilbb/lesson_oop_7`
+3. Запустить приложение: `dotnet run --project=Calculator`
     
