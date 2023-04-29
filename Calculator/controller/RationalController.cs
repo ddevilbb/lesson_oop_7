@@ -24,7 +24,7 @@ public class RationalController: CalculatorController<Rational>
 
             return new Rational(num, den);
         }
-        catch (DivideByZeroException e)
+        catch (DivideByZeroException)
         {
             throw;
         }
