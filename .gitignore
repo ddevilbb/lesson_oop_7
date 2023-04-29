@@ -423,5 +423,3 @@ fabric.properties
 
 bin
 obj
-*.csproj
-*.sln
